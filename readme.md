@@ -18,7 +18,7 @@ hypernym2: (x)
 
 Clone the repository:
 ```bash
-git clone 'https://github.com/JonathanKelsi/Hearst-Patterns.git'
+git clone "https://github.com/idokatzav/Hearst-Patterns.git"
 ```
 
 ## Running the program
